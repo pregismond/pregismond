@@ -12,7 +12,7 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 - 📫 How to reach me ...
 -->
 - 🌱 I’m currently learning ... Snowflake
-- ⚡ Fun fact: ... Father 👧🏽🧒🏽 / Husband / Photographer / Traveler / Lifelong Learner
+- ⚡ Fun fact: ... Father 👧🏽👧🏽 / Husband / Photographer / Traveler / Lifelong Learner
 
 ## 🧰 Skills
 
