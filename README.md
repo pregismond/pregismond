@@ -1,6 +1,6 @@
 ![pregismond's GitHub Banner](./assets/currentHeader.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/pregismond/pregismond)](https://badges.pufler.dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpregismond%2Fpregismond&countColor=%230d76a8&style=flat&labelStyle=none)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/pregismond/)
 
 Hello everyone 👋
@@ -16,16 +16,16 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 
 ## 🧰 Skills
 
-![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0D76A8)
 
 ## 📈 GitHub Stats
 
