@@ -22,11 +22,13 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=apachecassandra&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
+![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0D76A8)
 
