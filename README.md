@@ -21,6 +21,10 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 **Big Data Tools:**<br />
 ![](https://img.shields.io/badge/Apache_Hadoop-0D76A8?style=flat&logo=apachehadoop&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Spark-0D76A8?style=flat&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/Apache_Hive-0D76A8?style=flat&logo=apachehive&logoColor=white)
+
+**Cloud Computing and Platforms:**<br />
+![](https://img.shields.io/badge/IBM_Cloud-0D76A8?style=flat&logo=ibmcloud&logoColor=white)
 
 **Databases:**<br />
 ![](https://img.shields.io/badge/Oracle_Database_Enterprise_Edition-0D76A8?style=flat&logo=oracle&logoColor=white)
@@ -34,16 +38,6 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 ![](https://img.shields.io/badge/PowerShell-0D76A8?style=flat&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-0D76A8?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Oracle_PL%2FSQL-0D76A8?style=flat&logo=oracle&logoColor=white)
-
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=0D76A8)
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=0D76A8)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0D76A8)
 
 ## 📈 GitHub Stats
 
