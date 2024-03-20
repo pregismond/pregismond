@@ -29,10 +29,12 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 ![](https://img.shields.io/badge/MongoDB-0D76A8?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Cassandra-0D76A8?style=flat&logo=apachecassandra&logoColor=white)
 
-**Programming Languages:**<br />
+**Languages:**<br />
 ![](https://img.shields.io/badge/Python-0D76A8?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-0D76A8?style=flat&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-0D76A8?style=flat&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Oracle_PL%2FSQL-0D76A8?style=flat&logo=oracle&logoColor=white)
+
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=0D76A8)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=0D76A8)
 
