@@ -30,6 +30,7 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 ![](https://img.shields.io/badge/Oracle_Database_Enterprise_Edition-0D76A8?style=flat&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB_Server-0D76A8?style=flat&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL_Server-0D76A8?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-0D76A8?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-0D76A8?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Cassandra-0D76A8?style=flat&logo=apachecassandra&logoColor=white)
 
