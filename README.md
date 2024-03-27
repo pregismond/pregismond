@@ -26,6 +26,10 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 **Cloud Computing and Platforms:**<br />
 ![](https://img.shields.io/badge/IBM_Cloud-0D76A8?style=flat&logo=ibmcloud&logoColor=white)
 
+**Data Pipeline Tools:**<br />
+![](https://img.shields.io/badge/Apache%20Kafka-0D76A8?style=flat&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Airflow-0D76A8?style=flat&logo=apacheairflow&logoColor=white)
+
 **Databases:**<br />
 ![](https://img.shields.io/badge/Oracle_Database_Enterprise_Edition-0D76A8?style=flat&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/MariaDB_Server-0D76A8?style=flat&logo=mariadb&logoColor=white)
