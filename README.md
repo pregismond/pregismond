@@ -21,14 +21,15 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 **Big Data Tools:**<br />
 ![](https://img.shields.io/badge/Apache_Hadoop-0D76A8?style=flat&logo=apachehadoop&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Spark-0D76A8?style=flat&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/Apache_Spark_ML-0D76A8?style=flat&logo=apachespark&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Hive-0D76A8?style=flat&logo=apachehive&logoColor=white)
 
 **Cloud Computing and Platforms:**<br />
 ![](https://img.shields.io/badge/IBM_Cloud-0D76A8?style=flat&logo=ibmcloud&logoColor=white)
 
 **Data Pipeline Tools:**<br />
-![](https://img.shields.io/badge/Apache%20Kafka-0D76A8?style=flat&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Airflow-0D76A8?style=flat&logo=apacheairflow&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Kafka-0D76A8?style=flat&logo=apachekafka&logoColor=white)
 
 **Databases:**<br />
 ![](https://img.shields.io/badge/Oracle_Database_Enterprise_Edition-0D76A8?style=flat&logo=oracle&logoColor=white)
