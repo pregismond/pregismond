@@ -13,7 +13,7 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-- 🌱 I’m currently learning ... Snowflake
+- 🌱 I’m currently learning ... Databricks
 - ⚡ Fun fact: ... Father 👧🏽👧🏽 / Husband / Photographer / Traveler / Lifelong Learner
 
 ## 🧰 Software and IT Skills
