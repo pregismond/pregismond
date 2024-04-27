@@ -45,18 +45,4 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 ![](https://img.shields.io/badge/Shell_Script-0D76A8?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Oracle_PL%2FSQL-0D76A8?style=flat&logo=oracle&logoColor=white)
 
-## 📈 GitHub Stats
-
-<br>
-
-<a href="https://github.com/pregismond">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pregismond&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<!--
-<a href="https://github.com/pregismond">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=pregismond&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Pravin's GitHub Stats" />
-</a>
--->
-<br>
-<br>
+View my pinned projects 👇🏾
