@@ -7,7 +7,7 @@
 
 Hello everyone 👋🏾
 
-I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundation in database administration and a passion for big data and cloud technologies.
+I’m **Pravin Regismond** @pregismond, a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
 <!--
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,34 +15,5 @@ I’m **Pravin Regismond** @pregismond, an IT professional with a strong foundat
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 -->
-
-## 🧰 Software and IT Skills
-
-**Big Data Tools:**<br />
-![](https://img.shields.io/badge/Apache_Hadoop-0D76A8?style=flat&logo=apachehadoop&logoColor=white)
-![](https://img.shields.io/badge/Apache_Spark-0D76A8?style=flat&logo=apachespark&logoColor=white)
-![](https://img.shields.io/badge/Apache_Spark_ML-0D76A8?style=flat&logo=apachespark&logoColor=white)
-![](https://img.shields.io/badge/Apache_Hive-0D76A8?style=flat&logo=apachehive&logoColor=white)
-
-**Cloud Computing and Platforms:**<br />
-![](https://img.shields.io/badge/IBM_Cloud-0D76A8?style=flat&logo=ibmcloud&logoColor=white)
-
-**Data Pipeline Tools:**<br />
-![](https://img.shields.io/badge/Apache%20Airflow-0D76A8?style=flat&logo=apacheairflow&logoColor=white)
-![](https://img.shields.io/badge/Apache%20Kafka-0D76A8?style=flat&logo=apachekafka&logoColor=white)
-
-**Databases:**<br />
-![](https://img.shields.io/badge/Oracle_Database_Enterprise_Edition-0D76A8?style=flat&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/MariaDB_Server-0D76A8?style=flat&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MySQL_Server-0D76A8?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-0D76A8?style=flat&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-0D76A8?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Apache_Cassandra-0D76A8?style=flat&logo=apachecassandra&logoColor=white)
-
-**Languages:**<br />
-![](https://img.shields.io/badge/Python-0D76A8?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PowerShell-0D76A8?style=flat&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-0D76A8?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Oracle_PL%2FSQL-0D76A8?style=flat&logo=oracle&logoColor=white)
 
 View my pinned projects 👇🏾
