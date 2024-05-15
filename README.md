@@ -15,3 +15,10 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 -->
+- 💞️ These individual repositories highlight my noteworthy projects, complete with detailed submissions and my problem-solving approach. While the primary ones are pinned, I’ve also listed my favorites here:
+  - [Acquiring and Processing Information on World's Largest Banks](https://github.com/pregismond/python-project-for-data-engineering)
+  - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
+  - [Working with NoSQL Databases](https://github.com/pregismond/working-with-nosql-databases)
+  - [Build a Machine Learning Pipeline for Airfoil Noise Prediction](https://github.com/pregismond/build-ml-pipeline-airfoil-noise-prediction)
+
+- 👀 Feel free to follow me on GitHub for updates on my latest projects and contributions!
