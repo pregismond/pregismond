@@ -7,7 +7,7 @@
 
 ### Hello everyone 👋🏾
 
-#### I’m **Pravin Regismond** (@pregismond), a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
+#### I’m **Pravin Regismond**, a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
 <!--
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
@@ -21,4 +21,4 @@
   - [Working with NoSQL Databases](https://github.com/pregismond/working-with-nosql-databases)
   - [Build a Machine Learning Pipeline for Airfoil Noise Prediction](https://github.com/pregismond/build-ml-pipeline-airfoil-noise-prediction)
 
-- 👀 Feel free to follow me here for updates on my latest projects and contributions!
+- 👀 Feel free to follow me for updates on my latest projects and contributions!
