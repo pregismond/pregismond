@@ -10,7 +10,7 @@
 #### I’m Pravin Regismond, a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
 
 - 💞️ These individual repositories highlight my noteworthy projects, complete with detailed submissions and my problem-solving approach. While the primary ones are pinned, I’ve also listed my favourites here:
-  - [Waste Management Data Warehouse using PostgreSQL and Cognos Analytics](https://github.com/pregismond/data-warehouse-fundamentals)
+  - [Waste Management Data Warehouse using PostgreSQL and Cognos Analytics](https://github.com/pregismond/introduction-to-data-warehousing)
   - [ETL and Data Pipelines with Shell, Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
   - [Acquiring and Processing Information on the World's Largest Banks](https://github.com/pregismond/python-project-for-data-engineering)
   - [Build a Machine Learning Pipeline for Airfoil Noise Prediction](https://github.com/pregismond/build-ml-pipeline-airfoil-noise-prediction)
