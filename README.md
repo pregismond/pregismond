@@ -10,7 +10,7 @@
 #### I’m Pravin Regismond, a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
 
 - 💞️ These individual repositories highlight my noteworthy projects, complete with detailed submissions and my problem-solving approach. While the primary ones are pinned, I’ve also listed my favourites here:
-  - [Harmonizing Disparate Toll Plaza Data with Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
+  - [Traffic Flow Optimization with Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
   - [Diabetes Prediction Using PySpark MLlib](https://github.com/pregismond/coursera-diabetes-prediction)
   - [Acquiring and Processing Information on the World's Largest Banks](https://github.com/pregismond/python-project-for-data-engineering)
   - [Waste Management Data Warehouse using PostgreSQL and Cognos Analytics](https://github.com/pregismond/introduction-to-data-warehousing)
