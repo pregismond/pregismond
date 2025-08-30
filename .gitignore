@@ -1,3 +1,14 @@
-# OS metadata files
+# OneDrive sync files
+*.lnk
+~$*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# OS-specific
 .DS_Store
-.Thumbs.db
