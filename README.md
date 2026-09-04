@@ -7,9 +7,9 @@
 
 ### Hello everyone 👋🏾
 
-#### I’m Pravin Regismond, a data professional with a strong foundation in database administration and a passion for big data and cloud technologies.
+#### I'm Pravin Regismond, an experienced Oracle professional and technology consultant with a passion for cloud technologies, automation, AI, and modern data platforms.
 
-- 💞️ These individual repositories highlight my noteworthy projects, complete with detailed submissions and my problem-solving approach. While the primary ones are pinned, I’ve also listed my favourites here:
+- 💞️ These repositories highlight projects, technical explorations, and learning initiatives that showcase my problem-solving approach and commitment to continuous learning. While the primary projects are pinned, I've also listed some of my favourites below:
   - [Visualizing Car Sales and Dealer Profits Using Snowflake Snowsight](https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight)
   - [Predicting Food Truck Locations Using Snowpark ML and XGBoost](https://github.com/pregismond/northstar-snowparkml-modeling)
   - [Traffic Flow Optimization with Airflow and Kafka](https://github.com/pregismond/etl-data-pipelines-with-shell-airflow-kafka)
