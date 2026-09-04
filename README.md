@@ -6,7 +6,7 @@
 
 ### Hello everyone 👋🏾
 
-#### I'm Pravin Regismond, an experienced Oracle professional and technology consultant with a passion for cloud technologies, automation, AI, and modern data platforms.
+#### I'm Pravin Regismond, an experienced Oracle professional, technology consultant, and founder of Regismond Inc. with interests in cloud technologies, automation, AI, and modern data platforms.
 
 - 💞️ These repositories highlight projects, technical explorations, and learning initiatives that showcase my problem-solving approach and commitment to continuous learning. While the primary projects are pinned, I've also listed some of my favourites below:
   - [Visualizing Car Sales and Dealer Profits Using Snowflake Snowsight](https://github.com/pregismond/creating-visualizations-using-snowflake-snowsight)
